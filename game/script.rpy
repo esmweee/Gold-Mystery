@@ -18,6 +18,8 @@ label start:
 
 scene bg rearpalace
 
+play music "audio/normalconversation.mp3" volume 0.5
+
 "After the garden party..."
 show xiaolan normal
 "Xiaolan" "Oh right! Maomao, I've been meaning to ask you..."
