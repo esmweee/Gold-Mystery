@@ -19,11 +19,11 @@ label start:
 scene bg outside
 
 "After the garden party..."
-show xiaolan
+show xiaolan normal
 "Xiaolan" "Oh right! Maomao, I've been meaning to ask you..."
 "Xiaolan" "What are you going to do with all the hairpins you received?"
 "Xiaolan" "I mean, really, who gets FOUR hairpins?"
-show Maomao at right
+show maomao normal at right
 "Maomao" "I actually don't know yet. You did say it's possible to leave the rear palace with them..."
 "Maomao" "... so that's probably what I'll be doing."
 
