@@ -3,31 +3,20 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define Maomao = Character("Maomao")
+define Maomao = Character("Maomao", color="#64a34b")
+define Jinshi = Character("Jinshi")
+define Gaoshun = Character ("Gaoshun")
+define Xiaolan = Character("Xiaolan")
+define Lishu = Character("Lishu")
+
+
 
 
 # The game starts here.
 
 label start:
-
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
-
-    scene bg room
-
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
-
-    show eileen happy
-
-    # These display lines of dialogue.
-
-    e "You've created a new Ren'Py game."
-
-    e "Once you add a story, pictures, and music, you can release it to the world!"
-
-    # This ends the game.
-
-    return
+"After the garden party..."
+show Xiaolan
+"Xiaolan" "Oh right! Maomao, I've been meaning to ask you..."
+"Xiaolan" "What are you going to do with all the hairpins you received?"
+"Xiaolan" "I mean, really, who gets FOUR hairpins?"
