@@ -41,31 +41,30 @@ show maomao normal at right
 
 "Maomao" "That reminds me of something."
 "Maomao" "After the garden party, don't you think Lady Lishu was acting a bit odd?"
+"Maomao" "I couldn't exactly get a good look at her, but she looked very... out of sorts."
 
 "Not wanting to word it wrongfully, Maomao stops for a second and says nervously:"
 
-"Maomao" "I-I mean, odd as in, she wasn't her usual self."
+"Maomao" "I-I mean, odd as in, she wasn't her usual self. Knowing her past history with her ladies-in-waiting, it wouldn't surprise me if they tried another scheme on her once again."
 
-"Xiaolan" "Yeah, it's been spreading around the rear palace."
-"Xiaolan" "There were some reports that after the garden party she was rushed to the Diamond Pavillion."
+"Xiaolan" "Yeah, some rumours have recently been spreading around the rear palace."
+"Xiaolan" "There were some reports that after the garden party was over she was rushed to the Diamond Pavillion."
 "Xiaolan" "Some ladies-in-waiting also reported that she seemed somewhat fragile and pale, looking very frightened."
 
 "Maomao" "Poor girl... Well, her situation is poor atleast."
 "Maomao" "There's really been a handful of cases recently, haven't there?"
+"Maomao" "..."
+"Maomao" "I need a vacation."
 
-"Xiaolan" "There sure have! You must keep yourself so busy Maomao."
+"Xiaolan" "Haha! There sure have! You must keep yourself so busy Maomao."
 
-"Maomao" "Yeah, if it wasn't for a certain handsome individual..."
+"Maomao" "Yeah, I wonder what purple-haired individual's fault that is. "
 
-"Xiaolan" "Are you referring to Master Jinshi? You know, you're super lucky to be so close to him!"
-"Xiaolan" "A lot of the girls here can easily faint at the sight of such beauty."
+"Xiaolan" "Are you referring to Master Jinshi? You know, you're super lucky to be so close to him all the time!"
+"Xiaolan" "A lot of the girls here easily faint at just the sight of him. His looks are really no small deal..."
 
-hide xiaolan normal
-
-"Maomao stares deeply at Xiaolan, with some sort of playful disgust on her face."
-"Meanwhile, Xiaolan is deeply fascinated by Jinshi's visuals."
-
-show xiaolan normal
+"Maomao stares deeply at Xiaolan, with some sort of playful grossed-out look on her face."
+"Meanwhile, Xiaolan is deeply fascinated by Jinshi's visuals, not paying attention to her surroundings at all."
 
 "Maomao" "Sure... Well, it's time for me to get going anyways. Here, take this."
 
@@ -77,8 +76,10 @@ hide xiaolan normal
 show xiaolan normal
 show maomao normal at right
 
-"Xiaolan" "Maomao! Thank you so much! You're always so thoughtful, I really appreciate it."
+"Xiaolan" "Maomao! Thank you so much! You're always so thoughtful, I really appreciate your company."
 
 "Maomao" "Don't worry about it, Xiaolan. I'll be sure to stop by some other time with more snacks for you, alright?"
 
 "Xiaolan" "Alright! I'll be waiting for you. Take care Maomao!"
+
+label end: 
